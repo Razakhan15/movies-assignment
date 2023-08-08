@@ -1,0 +1,20 @@
+.main{
+    display: flex;
+    margin: 5rem;
+}
+
+img{
+    height: 35rem;
+}
+
+.sec{
+    margin-left: 3rem;
+}
+
+.sec > h1{
+    font-size: 4rem;
+}
+
+.sec >p{
+    font-size: 1.5rem;
+}
